@@ -9,8 +9,8 @@ body{
     display: flex;
 }
 .img-container img{
-    width: 150px;
-    height: 150px;
+    width:150px;
+    height: 200px;
     border-radius: 15px;
     cursor: pointer;
     transition: all 0.3s;
